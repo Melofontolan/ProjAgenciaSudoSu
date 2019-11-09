@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand img{
+    width: 120px;
+}
+
+#sabres{
+    height: 368px;
+}
+
+#r2d2{
+    height: 368px;
+}
